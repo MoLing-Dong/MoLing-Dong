@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
  🔭 I’m currently working on School
- 🌱 I’m currently learning ...
- 👯 I’m looking to collaborate on ...
+ 🌱 I’m currently learning Web
+ 👯 I’m looking to collaborate on .Everything
  🤔 I’m looking for help with Every
  💬 Ask me about Mail
  📫 How to reach me: ...
