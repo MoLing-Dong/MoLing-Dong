@@ -15,9 +15,7 @@ Here are some ideas to get you started:
  😄 Pronouns: ...
  ⚡ Fun fact: ...
 ### about
-<div style='margin:auto 0px'>
+<br style='margin:auto 0px'>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoLing-Dong)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoLing-Dong&show_icons=true&theme=radical)
-
-
 </div>
