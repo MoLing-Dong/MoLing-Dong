@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  😄 Pronouns: ...
  ⚡ Fun fact: ...
 ### about
-<br style='margin:auto 0px'>
+<div style='margin:auto 0px'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoLing-Dong)](https://github.com/Christmas/github-readme-stats)
 
 
