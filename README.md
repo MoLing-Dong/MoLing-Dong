@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  ⚡ Fun fact: ...
 ### about
 <br style='margin:auto 0px'>
-![Visitor Count](https://profile-counter.glitch.me/MoLing-Dong/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/Christmas/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoLing-Dong)](https://github.com/anuraghazra/github-readme-stats)
