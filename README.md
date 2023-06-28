@@ -23,10 +23,11 @@ description: "meta description of the page"
   - 🌿 Node.js
   - 🚀 Babel
 - Open Source Projects
-  <div><img height="20px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"/>
-  <img height="20px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img height="20px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-  <img height="20px" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <div>
+  <img height="20px" width="20px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img height="20px" width="20px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img height="20px" width="20px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+  <img height="20px" width="20px" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   </div>
 
 ## 💻 Hobbies
@@ -41,7 +42,7 @@ description: "meta description of the page"
 ## 🏆 Github Status
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoLing-Dong&theme=buefy&hide_border=true&hide=Shell,BAtchfile,Stylus" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoLing-Dong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ```js
 console.log("Hello World!!!");
