@@ -1,8 +1,13 @@
+---
+title: "Title of the page"
+description: "meta description of the page"
+---
+
 # Here is a young man with a dream 👋
 
 <div align="center">
 
-<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:MoLing-Dong?theme=rule34">
+<img  width="150" alt="🦑" src="https://count.getloli.com/get/@:MoLing-Dong?theme=rule34">
 
 ## 🤷 Self Introduction
 
@@ -13,16 +18,15 @@
 ---
 
 - 🌱 Focus on
-  - 🚤 TypeScript
-  - 🍀 Vue.js
-  - 🌿 Node.js
-  - 🚀 Babel
-  <!-- 两列显示 -->
+    - 🚤 TypeScript
+    - 🍀 Vue.js
+    - 🌿 Node.js
+    - 🚀 Babel
 - Open Source Projects  
-  <code><img  width="20px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img  width="20px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img  width="20px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-  <code><img  width="20px" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img alt="javascript" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"/></code>
+  <code><img alt="javascript" height="20px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img alt="javascript" height="20px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+  <code><img alt="javascript" height="20px" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ## 💻 Hobbies
 
@@ -36,6 +40,8 @@
 ## 🏆 Github Status
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoLing-Dong&theme=buefy&hide_border=true&hide=Vue,javascript,Stylus" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoLing-Dong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-</div>
+```js
+console.log('Hello World!!!')
+```
