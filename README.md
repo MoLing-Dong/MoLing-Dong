@@ -18,15 +18,16 @@ description: "meta description of the page"
 ---
 
 - 🌱 Focus on
-    - 🚤 TypeScript
-    - 🍀 Vue.js
-    - 🌿 Node.js
-    - 🚀 Babel
-- Open Source Projects  
-  <code><img alt="javascript" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"/></code>
-  <code><img alt="javascript" height="20px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img alt="javascript" height="20px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-  <code><img alt="javascript" height="20px" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  - 🚤 TypeScript
+  - 🍀 Vue.js
+  - 🌿 Node.js
+  - 🚀 Babel
+- Open Source Projects
+  <div><img height="20px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"/>
+  <img height="20px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img height="20px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+  <img height="20px" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  </div>
 
 ## 💻 Hobbies
 
@@ -40,8 +41,8 @@ description: "meta description of the page"
 ## 🏆 Github Status
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoLing-Dong&theme=buefy&hide_border=true&hide=Vue,javascript,Stylus" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoLing-Dong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ```js
-console.log('Hello World!!!')
+console.log("Hello World!!!");
 ```
