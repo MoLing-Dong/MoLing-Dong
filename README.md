@@ -1,8 +1,3 @@
----
-title: "Title of the page"
-description: "meta description of the page"
----
-
 # Here is a young man with a dream 👋
 
 <div align="center">
