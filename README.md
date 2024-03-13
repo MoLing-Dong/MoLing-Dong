@@ -46,6 +46,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoLing-Dong&theme=buefy&hide_border=true&hide=Shell,BAtchfile,Stylus" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoLing-Dong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-```js
-console.log("Hello World!!!");
+```shell
+48 65 6C 6C 6F 20 57 6F 72 6C 64 21 21 21
 ```
