@@ -16,7 +16,7 @@
   - 🚤 TypeScript
   - 🍀 Vue.js
   - 🌿 Node.js
-  - 🚀 Babel
+  - 🚀 Vite
   - 💯More...
 - 🔧Skill Points
   <div>
